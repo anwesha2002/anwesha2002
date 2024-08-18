@@ -8,7 +8,10 @@
 </p> 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://private-user-images.githubusercontent.com/116761608/358840856-04b8180d-5b82-4a5d-b8e6-459e129bef30.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM4OTIxNTksIm5iZiI6MTcyMzg5MTg1OSwicGF0aCI6Ii8xMTY3NjE2MDgvMzU4ODQwODU2LTA0YjgxODBkLTViODItNGE1ZC1iOGU2LTQ1OWUxMjliZWYzMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxN1QxMDUwNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNjY1Y2IxNjFlNjA5MjRmOWE4ZWFmZGY1ZWQwY2JhYjE1Nzc5ODYxNzRmNzBiZGEyYmZiNmM4YTQ5ZGFkYjRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Z-qEWbUk1CbVjrsEBlVd40oD-yPSi1qhqgNm8J2jeno" max-height="100px" min-width="100px" max-width="100px" width="250px" align="right" mix-blend-mode="screen"> 
+👨🏻‍💻 **About Me**<img src="https://private-user-images.githubusercontent.com/116761608/358934097-38e0c472-4390-440c-b982-73a81b6d2fc6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwMTI3MTIsIm5iZiI6MTcyNDAxMjQxMiwicGF0aCI6Ii8xMTY3NjE2MDgvMzU4OTM0MDk3LTM4ZTBjNDcyLTQzOTAtNDQwYy1iOTgyLTczYTgxYjZkMmZjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxOFQyMDIwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYmQwMzk2Yjc2ZDA0MzFmMzIzZTQzYzc4NzU5NmZhMTRlYjg5NzFhODZjOTE3MjY4ZWFhMDExOWI0Y2ZmNWJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.eaDKyMa3ToIpOcVBEWQyDlehb9BCNeRba0UydPQzSwk" max-height="100px" min-width="100px" max-width="100px" width="300px" align="right" background-blend-mode="darken"> 
+
+<!-- ![ai-generated-8775232_640-removebg](https://github.com/user-attachments/assets/38e0c472-4390-440c-b982-73a81b6d2fc6) -->
+
 
 
 <!--
