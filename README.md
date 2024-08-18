@@ -106,7 +106,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <table width="100%" align="center">
   <tr>
     <td>
-      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha2002&theme=dark" alt="Profile Summary">
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha2002&layout=compact&theme=dark&hide_border=true" alt="Profile Summary">
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha2002&layout=compact&theme=dark&hide_border=true" />
@@ -117,10 +117,10 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=anwesha2002&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=anwesha2002&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=anwesha2002&theme=radical" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=anwesha2002&theme=dark&hide_border=true" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
