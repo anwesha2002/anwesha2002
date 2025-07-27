@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <!--<details>	 -->
- ><b>🛠Tech Stack</b><br>
+ <b>🛠Tech Stack</b><br>
 Languages: <img src="https://img.shields.io/badge/-typeScript-437CAC?logo=typeScript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-437CAC?logo=JavaScript&logoColor=white&style=flat">&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -54,11 +54,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-webstorm-25AEF4?logo=webstorm&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-IntelliJ-25AEF4?logo=IntelliJ&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-pycharm-25AEF4?logo=pycharm&logoColor=white&style=flat">&nbsp;
-<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
-<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
+<img src="https://img.shields.io/badge/-pycharm-25AEF4?logo=pycharm&logoColor=white&style=flat">&nbsp;<br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
@@ -67,6 +63,10 @@ Programming Languages: <img src="https://img.shields.io/badge/-java-437CAC?logo=
 <img src="https://img.shields.io/badge/-C-DE5934?logo=C&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C++-2275B2?logo=C++&logoColor=white&style=flat"> &nbsp; <br>
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
+<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> --><br>
 <!-- </details>  -->
 
 <!--## GSSOC(24) Badges 🪶
