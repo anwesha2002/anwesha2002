@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: ... -->
 
 
-<details>	
- <summary><b>🛠Tech Stack</b></summary><br>
+<!--<details>	 -->
+ ><b>🛠Tech Stack</b><br>
 Languages: <img src="https://img.shields.io/badge/-typeScript-437CAC?logo=typeScript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-437CAC?logo=JavaScript&logoColor=white&style=flat">&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
@@ -67,7 +67,7 @@ Programming Languages: <img src="https://img.shields.io/badge/-java-437CAC?logo=
 <img src="https://img.shields.io/badge/-C-DE5934?logo=C&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C++-2275B2?logo=C++&logoColor=white&style=flat"> &nbsp; <br>
 Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
-</details> 
+<!-- </details>  -->
 
 <!--## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
