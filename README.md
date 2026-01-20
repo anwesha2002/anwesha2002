@@ -103,7 +103,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/anwesha2002">
-<table width="100%" align="center">
+<table  align="center">
   <tr>
     <td width="50%">
       <img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha2002&layout=compact&theme=dark&hide_border=true" alt="Profile Summary">
