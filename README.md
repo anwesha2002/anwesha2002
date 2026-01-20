@@ -105,11 +105,11 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <a href="https://github.com/anwesha2002">
 <table width="100%" align="center">
   <tr>
-    <td >
-      <img width="fit-content" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha2002&layout=compact&theme=dark&hide_border=true" alt="Profile Summary">
+    <td width="50%">
+      <img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha2002&layout=compact&theme=dark&hide_border=true" alt="Profile Summary">
     </td>
-    <td >
-      <img width="fit-content" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha2002&layout=donut&theme=dark&hide_border=true" />
+    <td width="50%">
+      <img width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha2002&layout=donut&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
