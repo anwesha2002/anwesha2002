@@ -120,7 +120,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=anwesha2002&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="Streak Stats"/>
+  <img width="420em" src="https://streak-stats.demolab.com/?user=anwesha2002&theme=dark" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
