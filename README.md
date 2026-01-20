@@ -103,12 +103,12 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/anwesha2002">
-<table  align="center">
+<table  width="100%" align="center">
   <tr>
-    <td width="50%">
-      <img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha2002&layout=compact&theme=dark&hide_border=true" alt="Profile Summary">
+    <td >
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwesha2002&layout=compact&theme=dark&hide_border=true" alt="Profile Summary">
     </td>
-    <td width="50%">
+    <td >
       <img width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha2002&layout=donut&theme=dark&hide_border=true" />
     </td>
   </tr>
