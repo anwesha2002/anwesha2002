@@ -124,6 +124,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </td>
 </tr>
 </table>
+</a>
 <br>
 
 <p align="center">
