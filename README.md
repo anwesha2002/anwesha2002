@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://anweshaporfolio9.wordpress.com/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/anwesha-das-395516254/">LinkedIn</a> - 
-  <a href="https://x.com/Anwesha31627512">Twitter</a> 
+  <a href="https://x.com/Anwesha31627512">Twitter</a> -
+  <a href="https://github.com/anwesha-shipthis">Company Account</a> 
 </p> 
 
 -----------------------------------------------------------
@@ -31,9 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her <br>
 - 📍 **Location:** India <br>
 <!-- - ⚡ Fun fact: ... -->
-
-<b>Company Account</b> : [anwesha-shipthis](https://github.com/anwesha-shipthis)
-
 
 <!--<details>	 -->
  <b>🛠Tech Stack</b><br>
