@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 📍 **Location:** India <br>
 <!-- - ⚡ Fun fact: ... -->
 
+
 <!--<details>	 -->
  <b>🛠Tech Stack</b><br>
 Languages: <img src="https://img.shields.io/badge/-typeScript-437CAC?logo=typeScript&logoColor=white&style=flat">&nbsp;
