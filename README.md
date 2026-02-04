@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - 📍 **Location:** India <br>
 <!-- - ⚡ Fun fact: ... -->
 
+<b>Company Account</b> : [anwesha-shipthis](https://github.com/anwesha-shipthis)
+
 
 <!--<details>	 -->
  <b>🛠Tech Stack</b><br>
